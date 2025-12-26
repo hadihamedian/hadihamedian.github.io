@@ -1,0 +1,5 @@
+# Resume Placeholder
+
+Place your `resume.pdf` file in this `/public` folder.
+
+The download link in the Contact section will automatically point to `/resume.pdf`.
